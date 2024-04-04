@@ -49,7 +49,7 @@ Because it wanted to keep an eye on the mouse!
 
 Now using the `message` request parameter
 ```shell
-curl --get  --data-urlencode 'message=Tell me a joke about a cow.' localhost:8080/ai/simple 
+curl --get  --data-urlencode 'message=Tell me a joke about a cow.' localhost:8080/cat-jokes 
 ```
 
 A sample response is
